@@ -1,0 +1,36 @@
+body{
+    background-image:url(imagess/scale_1200\ \(24\).webp) ;
+    color: aliceblue;
+
+}
+a{
+    text-decoration: none;
+    text-align: none;
+    color: aliceblue;
+}
+ul{
+    text-align: none;
+    color: aliceblue;
+}
+ol{
+    font-family:sans-serif;
+    color: aliceblue;
+    
+}
+h1{
+    margin-left: 500px;
+    color: rgb(255, 255, 255);
+}
+h2{
+    margin-left: 500px;
+    color: rgb(0, 0, 0);
+}
+img:hover{
+    z-index: 0;
+    scale: 10;
+
+    
+}
+img{
+    margin-left: 500px;
+}

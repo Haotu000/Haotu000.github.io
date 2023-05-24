@@ -1,0 +1,52 @@
+body{
+    background-image:url(imagess/scale_1200\ \(24\).webp) ;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+    text-align: none;
+    color: aliceblue;
+}
+ul{
+    text-align: none;
+    color: #ffffff;
+}
+.text{
+    font-family:sans-serif;
+    color: azure;
+
+}
+.g{
+    text-align: none;
+    color: aliceblue;
+}
+h1{
+    margin-left: 450px;
+    color: aliceblue;
+}
+.v{
+    background-color: rgb(185, 238, 255);
+}
+.b{
+    font-family:sans-serif;
+    color: aliceblue;
+}
+@keyframes smile{
+0%{
+    transform: rotate(10deg);
+}
+50%{
+    transform: rotate(50deg);
+}
+100%{
+    transform: rotate(-50deg);
+}
+}
+#hand{
+    animation-name: smile;
+    animation-duration: 5s;
+    margin-right: 40px;
+}
+#s{
+    margin-left: 500px;
+}
